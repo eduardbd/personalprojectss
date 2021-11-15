@@ -1,0 +1,7 @@
+Requirments:
+-pyaudio
+-os: # to save/open files
+-speach_recognition: importing speech recognition package from google api
+-webbrowser-allow displaying Web-based documents to users
+-microphone
+
